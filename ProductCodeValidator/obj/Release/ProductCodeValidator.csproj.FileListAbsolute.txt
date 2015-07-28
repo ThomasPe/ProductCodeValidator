@@ -1,0 +1,5 @@
+E:\Dev\CodePlex\ProductCodeValidation\ProductCodeValidator\bin\Release\ProductCodeValidator.dll
+E:\Dev\CodePlex\ProductCodeValidation\ProductCodeValidator\bin\Release\ProductCodeValidator.pdb
+E:\Dev\CodePlex\ProductCodeValidation\ProductCodeValidator\obj\Release\ProductCodeValidator.csprojResolveAssemblyReference.cache
+E:\Dev\CodePlex\ProductCodeValidation\ProductCodeValidator\obj\Release\ProductCodeValidator.dll
+E:\Dev\CodePlex\ProductCodeValidation\ProductCodeValidator\obj\Release\ProductCodeValidator.pdb

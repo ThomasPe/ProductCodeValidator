@@ -1,0 +1,7 @@
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\bin\Debug\ProductCodeValidatorTest.dll
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\bin\Debug\ProductCodeValidatorTest.pdb
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\bin\Debug\ProductCodeValidator.dll
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\bin\Debug\ProductCodeValidator.pdb
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\obj\Debug\ProductCodeValidatorTests.csprojResolveAssemblyReference.cache
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\obj\Debug\ProductCodeValidatorTest.dll
+E:\Dev\Medienstudio\Media DB\MediaDBv2\ProductCodeValidatorTest\obj\Debug\ProductCodeValidatorTest.pdb

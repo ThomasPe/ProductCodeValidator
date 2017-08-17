@@ -1,8 +1,7 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using ProductCodeValidator;
 
-namespace ProductCodeValidatorTest
+namespace ProductCodeValidator.Test
 {
     [TestClass]
     public class AsinValidatorTests
